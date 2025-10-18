@@ -29,3 +29,5 @@
 ### Features
 
 * **structure:** initialize monorepo with turborepo, and begin migration from MUI to Hero UI ([#162](https://github.com/mimir-labs/mimir-wallet/issues/162)) ([b3d409f](https://github.com/mimir-labs/mimir-wallet/commit/b3d409fe2b4a0e7e92dd260167bd61b1c96f395a))
+
+<!-- Auto-update: 2025-10-18T08:52:28.223890 -->
